@@ -1,4 +1,4 @@
-# DiagramsForLife
+# MassDiagrams
 
 Hello! This software has been writen to get realiable mass measurments from pulsar timing of binary systems. In general, the system needs a good timing solution and at least 2 detected Post-Keplerian (PK) parameters to get nice 2D m2-cosi, m2-m1 and 1D cosi, m2 and m1 distributions. So far, it is only compatible with DDH and DDGR.
 
